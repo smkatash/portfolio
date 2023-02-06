@@ -1,5 +1,5 @@
 
-## Portfolio Short
+##Portfolio Short
 
 CREDITS:
 
@@ -8,7 +8,6 @@ http://getbootstrap.com/
 
 jQuery
 http://jquery.com/
-
 jQuery Easing
 http://gsgd.co.uk/sandbox/jquery/easing/
 
